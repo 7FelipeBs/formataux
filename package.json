@@ -1,0 +1,23 @@
+{
+  "name": "formataux",
+  "version": "1.0.0",
+  "description": "Biblioteca em javascript que serve como auxiliar para a construções de desenvolvimento software",
+  "main": "formatacao.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7FelipeBs/formataux.git"
+  },
+  "keywords": [
+    "formatações",
+    "validações"
+  ],
+  "author": "felipe.silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/7FelipeBs/formataux/issues"
+  },
+  "homepage": "https://github.com/7FelipeBs/formataux#readme"
+}
