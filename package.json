@@ -19,6 +19,9 @@
     "cnpj",
     "brasil"
   ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "author": "felipe.silva",
   "license": "ISC",
   "bugs": {
