@@ -154,6 +154,5 @@ module.exports = {
     }
 
     return telefone
-  },
-
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "formataux",
+  "name": "@7felipebs/formataux",
   "version": "1.0.0",
   "description": "Biblioteca em javascript que serve como auxiliar para a construções de desenvolvimento software",
   "main": "formatacao.js",
@@ -12,7 +12,12 @@
   },
   "keywords": [
     "formatações",
-    "validações"
+    "validações",
+    "formatar",
+    "Validar",
+    "cpf",
+    "cnpj",
+    "brasil"
   ],
   "author": "felipe.silva",
   "license": "ISC",

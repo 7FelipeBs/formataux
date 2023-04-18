@@ -9,7 +9,6 @@ module.exports = {
       return !(valor === null || valor === undefined || (typeof valor === "number" && isNaN(valor)) || (typeof valor === "string" && valor.trim() === ""));
   },
 
-
   /**
     Valida se o E-mail é válido
     @param {string} valor - Verifica se o E-mail é valido.
